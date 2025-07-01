@@ -1,0 +1,20 @@
+# Ignorar arquivos temporários e de sistema
+*.swp
+*.swo
+*.bak
+*~
+*.tmp
+
+# Ignorar capturas de tela (caso queira)
+*.png
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.py[cod]
